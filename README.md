@@ -89,13 +89,13 @@ Away Team:
 
 |        Stat       |     Info          |         Info     |              Info |         Info     |         Info      |
 |:------------------:|:-----------------:|:-----------------:|:-----------------:|:---------------:|:-----------------:|
-| **Player Name**  | Jeff Adrien     | Bismack Biyombo    | DeSagna Diop      | Ben Gordon      | Kemba Walker   |
+| **Player Name**    | Jeff Adrien       | Bismack Biyombo   | DeSagna Diop      | Ben Gordon      | Kemba Walker      |
 | **Number**         | 4                 | 0                 | 2                 | 8               | 33                |
 | **Shoe**           | 18                | 16                | 14                | 15              | 15                |
 | **Points**         | 10                | 12                | 24                | 33              | 6                 |
 | **Rebounds**       | 1                 | 4                 | 12                | 3               | 12                |
 | **Assists**        | 1                 | 7                 | 12                | 2               | 12                |
-| **Steals**         | 2                 | 22                 | 4                 | 1               | 7                |
+| **Steals**         | 2                 | 22                | 4                 | 1               | 7                 |
 | **Blocks**         | 7                 | 15                | 5                 | 1               | 5                 |
 | **Slam Dunks**     | 2                 | 10                | 5                 | 0               | 12                |
 
@@ -355,7 +355,7 @@ throughout this course and do a deeper dive on Pry specifically.
 
 ## Conclusion
 
-This is a new frontier for you! You are now using powerful tools of Ruby 
+This is a new frontier for you! You are now using powerful tools of Ruby
 to transform a nested data structure, that you made from non-computer-ready
 data, to produce insights. You've made huge strides in becoming a really solid
 developer in the procedural programming paradigm. This is a huge moment.
